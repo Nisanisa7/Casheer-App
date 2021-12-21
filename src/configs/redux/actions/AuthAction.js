@@ -30,7 +30,7 @@ export const LoginUser = (data, history) => (dispatch)=> {
         localStorage.setItem('role', role);
         console.log(dataUser, 'action');
         localStorage.setItem('isAuth', isAuth);
-            history.push('/login',
+            history.push('/',
             Swal.fire(
                 'Welcome',
                 'Welcome',

@@ -101,7 +101,7 @@ const HomeAdmin = () => {
 
   const handleSubmit = (e) =>{
       e.preventDefault()
-      axios.patch(`${process.env.REACT_APP_BACKEND_API}/food/${form.idfood}`, formData)
+      axios.patch(`${process.env.REACT_APP_BACKEND_API}/food/${form.idfood}?limit=15`, formData)
       .then((res)=>{
         Swal.fire("Edit Succes", "food data has been updated", "success");
         axios
