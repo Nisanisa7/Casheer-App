@@ -105,36 +105,20 @@ npm start
     <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640214118/github/Web_capture_23-12-2021_6145_localhost_corbja.jpg'width=100%/></td>
   </tr>
   <tr>
-    <td>Search Result Page</td>
-    <td>Search Result Not Found Page</td>
+    <td>Checkout Confirmation Pop-up</td>
+    <td>Checkout Success</td>
   </tr>
   <tr>
-    <td><image src='./Screenshot/search result.png' width=100%/></td>
-    <td><image src='./Screenshot/search result not found.png' width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640214379/github/checkout_confirmation_skg30v.jpg' width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640214369/github/success_order_bcejlj.jpg' width=100%/></td>
   </tr>
   <tr>
-    <td>Cart Page</td>
-    <td>Checkout Page</td>
+    <td>Add New Menu</td>
+    <td>History Page</td>
   </tr>
   <tr>
-    <td><image src='./Screenshot/mybag.png' width=100%/></td>
-    <td><image src='./Screenshot/CheckoutPage.png' width=100%/></td>
-  </tr>
-  <tr>
-    <td>Checkout Page - Payment Method</td>
-    <td>Checkout Page - Order Success</td>
-  </tr>
-  <tr>
-    <td><image src='./Screenshot/paymentmethod.png' width=100%/></td>
-    <td><image src='./Screenshot/order success.png' width=100%/></td>
-  </tr>
-  <tr>
-    <td>Profile Page - Edit Profile</td>
-    <td>Profile Page - Change Address</td>
-  </tr>
-  <tr>
-    <td><image src='./Screenshot/Userprofile.png' width=100%/></td>
-    <td><image src='./Screenshot/address page.png' width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640214501/github/Web_capture_23-12-2021_689_localhost_mxdull.jpg' width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640214180/github/history_cwvxtg.jpg' width=100%/></td>
   </tr>
  </table>
 </p>
