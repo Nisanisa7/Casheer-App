@@ -3,19 +3,19 @@
 
   <h3 align="center">Pos App</h3>
   <p align="center">
-  <image align="center" src='./Screenshot/logoblanja.png' />
+  <image align="center" src='https://res.cloudinary.com/nisanisa/image/upload/v1640215097/github/posapp_logo_ddq718.png' />
   </p>
 
   <p align="center">
     <br />
-    <a href="https://github.com/Nisanisa7/Blanja-react"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Nisanisa7/Casheer-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://letsblanja.vercel.app/">View Demo</a>
+    <a href="https://myposs-app.vercel.app/home">View Demo</a>
     ·
-    <a href="https://github.com/Nisanisa7/Blanja-react/issues">Report Bug</a>
+    <a href=https://github.com/Nisanisa7/Casheer-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Nisanisa7/Blanja-react/issues">Request Feature</a>
+    <a href="https://github.com/Nisanisa7/Casheer-App/issues">Request Feature</a>
   </p>
 </p>
 
@@ -124,8 +124,8 @@ npm start
 </p>
 
 ## Related Project
-* [`Frontend-Blanja-Telegram`](https://github.com/Nisanisa7/Blanja-react)
-* [`Backend-Api-Ecommerce`](https://github.com/Nisanisa7/Api-Ecommerce)
+* [`Frontend-Casheer App`](https://github.com/Nisanisa7/Casheer-App)
+* [`Backend-Api-Casheer-App`](https://github.com/Nisanisa7/Api-Ecommerce)
 
 
 <!-- CONTACT -->
