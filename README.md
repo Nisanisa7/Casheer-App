@@ -11,7 +11,7 @@
     <a href="https://github.com/Nisanisa7/Casheer-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://myposs-app.vercel.app/home">View Demo</a>
+    <a href="https://myposs-app.vercel.app">View Demo</a>
     ·
     <a href=https://github.com/Nisanisa7/Casheer-App/issues">Report Bug</a>
     ·
@@ -125,7 +125,7 @@ npm start
 
 ## Related Project
 * [`Frontend-Casheer App`](https://github.com/Nisanisa7/Casheer-App)
-* [`Backend-Api-Casheer-App`](https://github.com/Nisanisa7/Api-Ecommerce)
+* [`Backend-Api-Casheer-App`](https://github.com/Nisanisa7/Casheer-App-Backend)
 
 
 <!-- CONTACT -->
