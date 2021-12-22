@@ -97,20 +97,12 @@ npm start
     <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640213300/github/login_gszxfj.jpg' width=100%/></td>
   </tr>
   <tr>
-    <td>Register - Custommer</td>
-    <td>Register - Seller</td>
-  </tr>
-  <tr>
-    <td><image src='./Screenshot/1.3Register.png'width=100%/></td>
-    <td> <image src='./Screenshot/1.4 Register Seller.png' width=100%/></td>
-  </tr>
-  <tr>
     <td>Home Page</td>
-    <td>Detail Product Page</td>
+    <td>Home Page - Choosed Menu</td>
   </tr>
   <tr>
-    <td><image src='./Screenshot/2.1.png' width=100%/></td>
-    <td><image src='./Screenshot/4.1.png'width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640214042/github/Web_capture_23-12-2021_6031_localhost_efsjvq.jpg' width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640214118/github/Web_capture_23-12-2021_6145_localhost_corbja.jpg'width=100%/></td>
   </tr>
   <tr>
     <td>Search Result Page</td>
