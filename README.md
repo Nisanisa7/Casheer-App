@@ -89,12 +89,12 @@ npm start
 <p align="center" float="left">
  <table>
   <tr>
-    <td>Login - Custommer</td>
-    <td>Login - Seller</td>
+    <td>Login</td>
+    <td>Register</td>
   </tr>
   <tr>
-    <td><image src='./Screenshot/login.png' width=100%/></td>
-    <td><image src='./Screenshot/1.5 Login Seller.png' width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640213289/github/register_nhybil.jpg' width=100%/></td>
+    <td><image src='https://res.cloudinary.com/nisanisa/image/upload/v1640213300/github/login_gszxfj.jpg' width=100%/></td>
   </tr>
   <tr>
     <td>Register - Custommer</td>
