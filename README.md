@@ -66,7 +66,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone these 2 repos (Frontend & Backend)
 ```sh
-git clone https://github.com/Nisanisa7/Blanja-react.git
+git clone https://github.com/Nisanisa7/Casheer-App.git
 ```
 2. Install NPM packages
 ```sh
