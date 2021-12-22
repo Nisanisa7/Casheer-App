@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Blanja</h3>
+  <h3 align="center">Pos App</h3>
   <p align="center">
   <image align="center" src='./Screenshot/logoblanja.png' />
   </p>
