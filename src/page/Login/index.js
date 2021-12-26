@@ -17,6 +17,7 @@ const Login = () => {
             password:''
         },
         onSubmit: values =>{
+          console.log(values, 'login');
             dispatch(LoginUser(values, history))
         },
         validationSchema: Yup.object({
